@@ -1,0 +1,9 @@
+Body{
+  font-family: Arial;
+  height: 100vh;
+}
+
+ol,
+ul {
+  list-style: none;
+}
